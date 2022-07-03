@@ -1,3 +1,8 @@
+# Acorn Electron for Sockit
+
+Ported from https://github.com/MiSTer-devel/AcornElectron_MiSTer according from Somhi sockit template. 
+Follows original readme file.
+
 # Acorn Electron
 
 Port by David Wood - oldgit
